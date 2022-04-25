@@ -1,4 +1,4 @@
-## Olá eu sou Afonso Artoni estudante de Desevolvimento Front-end
+## Olá eu sou Afonso Artoni estudante de Desevolvimento Fullstack
 
 <div align="center">
   <a href="https://github.com/AfonsoArtoni">
